@@ -237,10 +237,11 @@ input::placeholder, textarea::placeholder {
   }
   .main-content, .form-section, .portfolio {
     width: 510px;
-    margin-left: 35px;
+    margin-left: 60px;
   }
   .main-name {
     margin-left: 30px;
+    position: static;
   }
   .nav-list-container {
     margin-right: 30px;
@@ -250,7 +251,7 @@ input::placeholder, textarea::placeholder {
   }
   .connect-with-me {
     float: left;
-    margin-left: 150px;
+    margin-left: 170px;
   }
   .form-label, .submit-button {
     margin-left: 25px;
